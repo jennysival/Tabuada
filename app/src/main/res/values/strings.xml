@@ -6,4 +6,5 @@
     <string name="texto_tabuada_de">Tabuada do 00</string>
     <string name="texto_exemplo_tabuada">0 x 1 = 0\n0 x 2 = 0\n0 x 3 = 0\n0 x 4 = 0\n0 x 5 = 0\n0 x 6 = 0\n0 x 7 = 0\n0 x 8 = 0\n0 x 9 = 0\n0 x 10 = 0</string>
     <string name="texto_botao_recalcular_tabuada">recalcular tabuada</string>
+    <string name="titulo_resultado">Resultado</string>
 </resources>
